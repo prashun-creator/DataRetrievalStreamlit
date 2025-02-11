@@ -1,0 +1,13 @@
+numpy
+pandas
+streamlit
+yapf
+pylint
+pre-commit
+isort
+autoflake
+streamlit_pandas_profiling
+pymongo
+fasal-logger
+scikit-learn
+openai
