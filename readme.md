@@ -4,7 +4,7 @@ tell you the step to run the model.
 
 ## Steps to run model locally
 1. Download **python version Python 3.7**
-2. Download repo Automation using https://bitbucket.org/wolkustechnologysolutions/pest-disease-prevalidation/src/master/Automation/
+2. Download repo (https://github.com/prashun-creator/DataRetrievalStreamlit)
 3. copy to desktop folder.
 4. Go to command line
 5. change the path if required in bash.sh
